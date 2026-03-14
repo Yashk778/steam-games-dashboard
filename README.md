@@ -19,4 +19,4 @@ An end-to-end data science project built on 2000+ Steam games.
 Python, BeautifulSoup, Pandas, Streamlit, Plotly
 
 ## Live Demo
-[Click here](YOUR_STREAMLIT_LINK_HERE)
+[Click here](https://steam-games-dashboard-kj5bzvmrxobyfbxmjdzmpt.streamlit.app/)
